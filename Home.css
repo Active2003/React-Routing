@@ -1,0 +1,13 @@
+/* CSS for Navigation Links */
+.nav-link {
+    display: inline-block; /* Display links horizontally */
+    margin-right: 20px;   /* Add space to the right of each link */
+    text-decoration: none; /* Remove underlines from links */
+    color: #333;         /* Text color */
+  }
+  
+  /* Style for hover effect (optional) */
+  .nav-link:hover {
+    color: #007bff; /* Change text color on hover */
+  }
+  
